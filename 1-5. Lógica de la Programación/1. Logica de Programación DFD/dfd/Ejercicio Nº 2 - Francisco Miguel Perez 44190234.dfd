@@ -1,0 +1,58 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+base
+1
+0
+5
+area 
+1
+0
+4
+1
+45
+'Ingrese la base de un triangulo rectángulo '
+5
+1
+4
+base
+7
+0
+1
+8
+base > 0
+4
+1
+27
+'El triangulo no existe. ' 
+13
+6
+3
+6
+altura
+1
+0
+6
+altura
+9
+base*base
+4
+area
+15
+(base*altura)/2
+4
+1
+52
+'El área de dicho triangulo rectángulo es de ', area
+13
+4
+1
+51
+'Francisco Miguel Perez, 44190234 Legajo Nº  56355'
+1

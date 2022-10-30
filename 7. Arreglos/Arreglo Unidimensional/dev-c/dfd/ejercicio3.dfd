@@ -1,0 +1,130 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+6
+2
+9
+contadorN
+1
+0
+11
+vector(100)
+1
+0
+4
+1
+20
+'Ingrese un numero '
+5
+1
+6
+numero
+9
+1
+11
+numero != 0
+6
+2
+17
+vector(contadorN)
+6
+numero
+9
+contadorN
+13
+contadorN + 1
+4
+1
+20
+'Ingrese un numero '
+5
+1
+6
+numero
+11
+4
+1
+61
+'Se ingresaron un total de: ', contadorN, ' numeros reales. '
+6
+1
+10
+numabuscar
+1
+0
+4
+1
+46
+'Ingrese un numero para buscar en el vector: '
+5
+1
+10
+numabuscar
+12
+1
+12
+buscarnumero
+1
+29
+vector, contadorN, numabuscar
+1
+2
+1
+12
+buscarnumero
+1
+17
+vector, n, numero
+0
+6
+1
+11
+seEncuentra
+1
+0
+8
+1
+1
+i
+1
+1
+0
+1
+1
+n
+1
+1
+1
+7
+0
+1
+18
+vector(i) = numero
+13
+6
+1
+11
+seEncuentra
+1
+1
+13
+10
+7
+0
+1
+15
+seEncuentra = 1
+4
+1
+29
+'el valor no fue encontrado '
+13
+4
+1
+24
+'el valor es encontrado'
+13
+3

@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+'Ingresar a y b '
+5
+1
+4
+a, b
+7
+0
+1
+6
+b != 0
+4
+1
+39
+'La división por 0, no está definida. '
+13
+6
+1
+13
+restodivision
+7
+a mod b
+7
+0
+1
+17
+restodivision = 0
+4
+1
+29
+'El resultado no es exacto. '
+13
+4
+1
+25
+'El resultado es exacto '
+13
+13
+4
+1
+71
+'Creado por Francisco Miguel Perez DNI: 44190234 - Nº de Legajo 56355 '
+1

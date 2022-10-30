@@ -1,0 +1,96 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+21
+'Ingrese las edades '
+5
+1
+18
+e1, e2, e3, e4, e5
+7
+0
+1
+102
+e1 > 0 and e2 > 0 and e3 > 0 and e4 > 0 and e5 > 0 and e1 != e2 and e2 != e3 and e3 != e4 and e4 != e5
+7
+0
+1
+56
+e1 <= 0 and  e2 <= 0 and e3 <= 0 and e4 <= 0 and e5 <= 0
+4
+1
+58
+'Las edades no pueden ser otra cosa que no sean números. '
+13
+4
+1
+45
+'Las edades no pueden ser negativas ni cero.'
+13
+13
+7
+0
+1
+43
+e1 < e2 and e1 < e3 and e1 < e4 and e1 < e5
+7
+0
+1
+35
+e2<e1 AND e2<e3 AND e2<e4 AND e2<e5
+7
+0
+1
+35
+e3<e1 AND e3<e2 AND e3<e4 AND e3<e5
+7
+0
+1
+35
+e4<e1 AND e4<e2 AND e4<e3 AND e4<e5
+7
+0
+1
+35
+e5<e1 AND e5<e2 AND e5<e3 AND e5<e4
+13
+4
+1
+57
+'El menor será ', e5, ' ingresado en la quinta posición '
+13
+13
+4
+1
+57
+'El menor será ', e4, ' ingresado en la cuarta posición '
+13
+13
+4
+1
+58
+'El menor será ', e3, ' ingresado en la tercera posición '
+13
+13
+4
+1
+58
+'El menor será ', e2, ' ingresado en la segunda posición '
+13
+13
+4
+1
+58
+'El menor será ', e1, ' ingresado en la primera posición '
+13
+13
+4
+1
+70
+'Creado por: Francisco MIguel Perez - 44190234 , Nº de Legajo 56355 ' 
+1

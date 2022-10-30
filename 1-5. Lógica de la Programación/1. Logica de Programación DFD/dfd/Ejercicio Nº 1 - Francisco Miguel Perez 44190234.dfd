@@ -1,0 +1,81 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+base
+1
+0
+3
+alt
+1
+0
+1
+p
+1
+0
+4
+1
+33
+'Ingrese la base del rectangulo '
+5
+1
+4
+base
+4
+1
+32
+'Ingrese la altura del teclado '
+5
+1
+3
+alt
+4
+1
+12
+'Ingrese P '
+5
+1
+1
+p
+7
+0
+1
+20
+alt > 0 and base > 0
+4
+1
+65
+'Ingresaste datos incorrectos, por ende el programa se cerrará. '
+13
+6
+2
+9
+perimetro
+18
+2 * base + 2 * alt
+4
+area
+10
+base * alt
+7
+0
+1
+13
+p > perimetro
+13
+4
+1
+36
+'El área es de ', area, ' unidades '
+13
+13
+4
+1
+52
+'Francisco Miguel Perez, 44190234  Legajo Nº  56355'
+1

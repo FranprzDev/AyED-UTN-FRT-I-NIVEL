@@ -1,0 +1,100 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+nota
+1
+0
+9
+notaMayor
+1
+0
+6
+2
+10
+acumulador
+1
+0
+7
+divprom
+1
+0
+4
+1
+19
+'Ingrese una nota '
+5
+1
+4
+nota
+7
+0
+1
+8
+nota > 0
+4
+1
+28
+'Ingreso una nota negativa '
+13
+9
+1
+8
+nota > 0
+7
+0
+1
+16
+nota > notaMayor
+13
+6
+1
+9
+notaMayor
+4
+nota
+13
+6
+2
+7
+divprom
+11
+divprom + 1
+10
+acumulador
+17
+acumulador + nota
+4
+1
+19
+'Ingrese una nota '
+5
+1
+4
+nota
+11
+6
+1
+8
+promedio
+18
+acumulador/divprom
+13
+4
+1
+31
+'El promedio es de: ', promedio
+4
+1
+37
+'La nota más alta es de ',  notaMayor
+4
+1
+54
+'Perez Francisco Miguel , 44190234 , Legajo Nº 56355 '
+1

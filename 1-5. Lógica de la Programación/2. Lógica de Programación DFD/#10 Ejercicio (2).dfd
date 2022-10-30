@@ -1,0 +1,109 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+a
+1
+0
+1
+b
+1
+0
+1
+n
+1
+0
+4
+1
+29
+'De la cantidad N de Duplas '
+5
+1
+1
+n
+8
+1
+1
+i
+1
+1
+1
+1
+1
+n
+1
+1
+1
+4
+1
+16
+'Ingrese A y B '
+5
+1
+4
+a, b
+7
+0
+1
+6
+a != b
+4
+1
+37
+'La división por 0 no está definida '
+13
+6
+2
+4
+suma
+3
+a+b
+6
+sumAbs
+9
+ABS(suma)
+6
+2
+5
+resta
+3
+a-b
+6
+resABS
+10
+abs(resta)
+7
+0
+1
+21
+sumAbs mod resABS = 0
+4
+1
+42
+'División de ',  sumAbs, ' sobre ', resABS
+4
+1
+27
+'La división no es exacta '
+13
+4
+1
+42
+'División de ',  sumAbs, ' sobre ', resABS
+4
+1
+24
+'La división es exacta '
+13
+13
+10
+4
+1
+51
+'Perez Francisco Miguel, 44190234  Legajo Nº 56355'
+1

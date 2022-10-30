@@ -1,0 +1,17 @@
+commit 145c9ca8f3237dc0a8c4eefb38dffcf9b7207c84
+Author: FranciscoPerez <soyasiknomelose@gmail.com>
+Date:   Fri Jul 8 21:22:59 2022 -0300
+
+    Ejercicio 2 Creado
+
+commit e72b3cb434a4ddbc333ff389d2fae243b05b69c8
+Author: FranciscoPerez <soyasiknomelose@gmail.com>
+Date:   Fri Jul 8 20:54:59 2022 -0300
+
+    Ejercicio 1 Terminado
+
+commit f3191279d5da09020b522d1f1cc4d300e2eaed2b
+Author: FranciscoPerez <soyasiknomelose@gmail.com>
+Date:   Fri Jul 8 20:25:33 2022 -0300
+
+    Ejercicio 1, Fibbonaci

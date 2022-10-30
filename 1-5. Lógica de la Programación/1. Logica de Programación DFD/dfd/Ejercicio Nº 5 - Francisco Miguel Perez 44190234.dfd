@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+9
+precioart
+5
+20000
+3
+iva
+4
+1.12
+4
+desc
+4
+0.05
+6
+1
+9
+cantdeart
+1
+0
+4
+1
+37
+'Ingresar la cantidad de artículos  '
+5
+1
+9
+cantdeart
+6
+2
+5
+total
+23
+(cantdeart * precioart)
+11
+totalConIVA
+11
+total * IVA
+7
+0
+1
+19
+totalConIVA > 80000
+4
+1
+38
+'El Total a pagar es de ', totalConIVA
+13
+6
+2
+13
+aPagarConDesc
+1
+0
+13
+aPagarConDesc
+18
+totalConIVA * desc
+4
+1
+39
+'El total a pagar será ', aPagarConDesc
+13
+1

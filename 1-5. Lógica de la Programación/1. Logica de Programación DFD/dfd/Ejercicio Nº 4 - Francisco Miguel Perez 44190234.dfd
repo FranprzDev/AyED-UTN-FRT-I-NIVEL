@@ -1,0 +1,119 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+num1
+1
+0
+4
+num2
+1
+0
+4
+num3
+1
+0
+4
+1
+18
+'Dar un numero 1 '
+5
+1
+4
+num1
+4
+1
+20
+'Ingrese la edad 2 '
+5
+1
+4
+num2
+4
+1
+20
+'Ingrese la edad 3 '
+5
+1
+4
+num3
+7
+0
+1
+27
+num1 > num2 and num1 > num3
+7
+0
+1
+27
+num2 > num1 and num2 > num3
+7
+0
+1
+27
+num3 > num1 and num3 > num2
+4
+1
+43
+'Todos los números ingresados son iguales '
+13
+7
+0
+1
+11
+num1 > num2
+4
+1
+22
+'El central es ', num2
+13
+4
+1
+22
+'El central es ', num1
+13
+13
+13
+7
+0
+1
+11
+num3 > num1
+4
+1
+22
+'El central es ', num1
+13
+4
+1
+22
+'El central es ', num3
+13
+13
+13
+7
+0
+1
+11
+num2 > num3
+4
+1
+22
+'El central es ', num3
+13
+4
+1
+22
+'El central es ', num2
+13
+13
+4
+1
+61
+'Creado por Francisco Miguel Perez, 44190234, Legajo: 56355 '
+1

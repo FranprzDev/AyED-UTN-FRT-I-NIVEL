@@ -1,0 +1,120 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+87
+'Ingrese precio de la pelicula 1, precio de la pelicula  2 y precio de la pelicula  3 '
+5
+1
+10
+p1, p2, p3
+7
+0
+1
+28
+p1 > 0 and p2 > 0 and p3 > 0
+4
+1
+51
+'Los precios no pueden ser menores o iguales a 0. '
+13
+6
+1
+10
+cantAPagar
+1
+0
+9
+1
+54
+p1 > 0 and p2 > 0 and p3 > 0 and p1 != p2 and p2 != p3
+7
+0
+1
+19
+p1 > p2 and p2 > p3
+7
+0
+1
+19
+p2 > p1 and p1 > p3
+7
+0
+1
+19
+p3 > p1 and p1 > p2
+4
+1
+120
+'Esta sección de código es inalcanzable. Pusiste algún valor que rompio el código por lo tanto se muestra este mensaje '
+13
+6
+1
+10
+cantAPagar
+5
+p1+p2
+4
+1
+40
+'La cantidad a pagar es de ', cantAPagar
+4
+1
+87
+'Ingrese precio de la pelicula 1, precio de la pelicula  2 y precio de la pelicula  3 '
+5
+1
+10
+p1, p2, p3
+13
+13
+6
+1
+10
+cantAPagar
+5
+p1+p3
+4
+1
+40
+'La cantidad a pagar es de ', cantAPagar
+4
+1
+87
+'Ingrese precio de la pelicula 1, precio de la pelicula  2 y precio de la pelicula  3 '
+5
+1
+10
+p1, p2, p3
+13
+13
+6
+1
+10
+cantAPagar
+5
+p2+p3
+4
+1
+40
+'La cantidad a pagar es de ', cantAPagar
+4
+1
+87
+'Ingrese precio de la pelicula 1, precio de la pelicula  2 y precio de la pelicula  3 '
+5
+1
+10
+p1, p2, p3
+13
+11
+13
+4
+1
+66
+'Creado por Francisco Miguel Perez Legajo Nº 56355 DNI: 44190234 '
+1

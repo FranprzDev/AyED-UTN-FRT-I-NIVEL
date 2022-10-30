@@ -1,0 +1,124 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+12
+'Ingrese A '
+5
+1
+1
+a
+7
+0
+1
+5
+a > 1
+4
+1
+19
+'A es menor que 1 '
+13
+4
+1
+12
+'Ingrese N '
+5
+1
+1
+n
+8
+1
+1
+i
+1
+1
+1
+1
+1
+n
+1
+1
+1
+6
+1
+5
+multN
+3
+a*i
+4
+1
+24
+'El mutliplo es ', multN
+10
+4
+1
+12
+'Ingrese B '
+5
+1
+1
+b
+7
+0
+1
+5
+b > 1
+4
+1
+19
+'B es menor que 1 '
+13
+4
+1
+12
+'Ingrese m '
+5
+1
+1
+m
+8
+1
+1
+c
+1
+1
+1
+1
+1
+m
+1
+1
+1
+6
+1
+6
+multiB
+3
+b*c
+7
+0
+1
+16
+multiB mod 2 = 1
+4
+1
+26
+'El multiplo no es impar '
+13
+4
+1
+34
+'El multiplo impar es de ', multiB
+13
+10
+13
+13
+4
+1
+58
+'Francisco Miguel Perez , Legajo Nº 56355, DNI: 44190234 '
+1

@@ -1,0 +1,80 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+'Ingrese el Día, Mes, Año '
+5
+1
+14
+dia, mes, anio
+9
+1
+8
+anio > 0
+7
+0
+1
+8
+anio > 0
+4
+1
+24
+'La fecha no es válida '
+13
+7
+0
+1
+49
+dia >= 1 and dia <= 28 and mes >= 1 and mes <= 12
+7
+0
+1
+90
+dia >= 1 and dia <= 31 and mes >= 1 and mes <= 12 and  mes != 4 and mes != 6 and mes != 11
+7
+0
+1
+62
+dia >= 1 and dia <= 30 and mes >= 1 and mes <= 12 and mes != 2
+4
+1
+24
+'La fecha no es válida '
+13
+4
+1
+21
+'La fecha es Válida '
+13
+13
+4
+1
+21
+'La fecha es Válida '
+13
+13
+4
+1
+21
+'La fecha es Válida '
+13
+13
+4
+1
+27
+'Ingrese el Día, Mes, Año '
+5
+1
+14
+dia, mes, anio
+11
+4
+1
+63
+'Creado por Francisco Miguel Perez , Legajo Nº 56355 44190234 '
+1

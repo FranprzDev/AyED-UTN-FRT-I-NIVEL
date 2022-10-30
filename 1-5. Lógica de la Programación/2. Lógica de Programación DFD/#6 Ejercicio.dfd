@@ -1,0 +1,80 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+7
+contPar
+1
+0
+6
+numero
+1
+0
+15
+acumuladorImpar
+1
+0
+4
+1
+19
+'Ingrese un valor '
+5
+1
+6
+numero
+7
+0
+1
+12
+numero != -1
+4
+1
+63
+'Introducció el número -1 por lo tanto el algoritmo se rompió '
+13
+9
+1
+28
+numero != -1 and contPar < 6
+7
+0
+1
+16
+numero mod 2 = 0
+6
+1
+15
+acumuladorImpar
+24
+acumuladorImpar + numero
+13
+6
+1
+7
+contPar
+11
+contPar + 1
+13
+4
+1
+22
+'Ingrese otro número '
+5
+1
+6
+numero
+11
+13
+4
+1
+65
+'La suma de todos los impares ingresados es de ', acumuladorImpar
+4
+1
+51
+'Perez Francisco Miguel, 44190234 Legajo Nº 56355 '
+1

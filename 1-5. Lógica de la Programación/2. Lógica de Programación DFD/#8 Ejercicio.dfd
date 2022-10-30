@@ -1,0 +1,76 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+n
+1
+0
+6
+numero
+1
+0
+9
+definidor
+1
+0
+4
+1
+57
+'Ingrese la cantidad de números enteros que desea poner '
+5
+1
+1
+n
+8
+1
+1
+i
+1
+1
+1
+1
+1
+n
+1
+1
+1
+4
+1
+33
+'Ingrese un número de 3 digitos '
+5
+1
+6
+numero
+7
+0
+1
+31
+numero >= 100 and numero < 1000
+4
+1
+31
+'El número no posee 3 digitos '
+13
+6
+1
+6
+digito
+13
+numero mod 10
+4
+1
+30
+'El ultimo digito es ', digito
+13
+10
+4
+1
+53
+'Perez Francisco Miguel, 44190234 Legajo Nº - 56355 '
+1

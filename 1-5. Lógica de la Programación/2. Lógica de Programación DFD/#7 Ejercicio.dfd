@@ -1,0 +1,128 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+3
+age
+1
+0
+3
+sex
+1
+1
+6
+patlog
+1
+0
+6
+3
+1
+n
+1
+0
+6
+contFC
+1
+0
+6
+contSC
+1
+0
+4
+1
+37
+'Ingrese la cantidad de voluntarios '
+5
+1
+1
+n
+7
+0
+1
+5
+n > 0
+13
+8
+1
+4
+cont
+1
+1
+1
+1
+1
+n
+1
+1
+1
+4
+1
+17
+'Ingrese su edad'
+5
+1
+3
+age
+4
+1
+47
+'Ingrese su sexo,(1 = Masculino, 2= Femenino).'
+5
+1
+3
+sex
+4
+1
+90
+'Ingrese su patología, :(0 = Gripe Estacional, 1 = Gripe A, 2 = Neumonía, 3 = Bronquitis)'
+5
+1
+6
+patlog
+7
+0
+1
+49
+age > 58 and sex = 1 and patlog = 1 or patlog = 3
+7
+0
+1
+10
+patlog = 0
+13
+6
+1
+6
+contSC
+10
+contSC + 1
+13
+13
+6
+1
+6
+contFC
+10
+contFC + 1
+13
+10
+13
+4
+1
+90
+'Personas de sexo masculino mayores a 58 años que padecen Bronquitis o
+Gripe A: ', contFC
+
+4
+1
+92
+'La cantidad de personas de sexo femenino y masculino que padecen Gripe Estacional ', contSC
+4
+1
+54
+'Perez Francisco Miguel , 44190234 , Legajo Nº 56355 '
+1
