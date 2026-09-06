@@ -1,42 +1,17 @@
+# Algoritmos y Estructuras de Datos — Nivel I (UTN-FRT)
 
-# Course of Programming in C (University Language)
+Ejercicios de la materia **Algoritmos y Estructuras de Datos** (1er nivel, Ing. en Sistemas, UTN-FRT), en C/C++. Del tema más fácil al más difícil.
 
-This is a list of archives where you can differents phases of programming in the University, where you can see about the most easier theme to the hardest.
+## Contenido
 
-## Authors
+Lógica de programación, funciones, arreglos, cadenas (`string.h`), registros y archivos, más parciales resueltos (`12. Ejercicios Tipo Parcial`) y el TFI de métodos de ordenamiento de vectores (`13.`, con PDF y codificación).
 
-- [@fprzdev](https://github.com/FranprzDev)
+## Videos
 
-
-## 🔗 Links
-
-In youtube you can access to the course (Spanish Version)
+El curso que acompaña estos ejercicios está en YouTube (español):
 
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=A8TFpbVHldc&list=PL-HCYF0feUhlVbGLk11W8enw8-yF4Bfel&ab_channel=FranciscoPerez-UTN)
 
-If you need contact me for informal propouse you can use Instagram.
+## Autor
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franprz23/)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-perezdev/)
-## Summary
-
-- ✅ 0. => Video Files
-
-- ✅ 1-5 => Introduction to programming
-
-- ✅ 6 => Functions
-
-- ✅ 7 => Arrays
-
-- ✅ 8 => Strings
-
-- ✅ 9 => Static Structs (Registers)
-
-- ✅ 10 => Files
-
-- ✅ 11 => Dynamic Structures
-
-- ✅ 12 => Programming Exercises (Evaluations)
-
-- ✅ 13 => TFI (Vector Ordering Methods)
+- [@FranprzDev](https://github.com/FranprzDev)
